@@ -56,4 +56,10 @@ script.js
 - Mobile Layout
 
 
+## 🚀 Live-Demo
+
+Probier's aus!
+👉 https://inesvanhe.github.io/find-the-bee-game/
+
+
 **Disclaimer:** Bei der Entwicklung wurden keine echten Bienen verletzt.
